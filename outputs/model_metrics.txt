@@ -1,0 +1,18 @@
+Customer Churn Prediction - Model Evaluation Summary
+=======================================================
+
+Logistic Regression:
+  accuracy: 0.737
+  precision: 0.615
+  recall: 0.352
+  f1_score: 0.448
+  roc_auc: 0.734
+
+Random Forest:
+  accuracy: 0.670
+  precision: 0.469
+  recall: 0.670
+  f1_score: 0.552
+  roc_auc: 0.722
+
+Selected model for deployment: Random Forest
