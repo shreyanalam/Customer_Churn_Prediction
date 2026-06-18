@@ -5,7 +5,8 @@ likely to cancel (churn) their subscription, based on their account,
 billing, and service usage details. Built with Python, scikit-learn, and
 an interactive Streamlit dashboard.
 
-
+#Intern ID
+CITS2841
 
 ## 1. Project Overview
 
